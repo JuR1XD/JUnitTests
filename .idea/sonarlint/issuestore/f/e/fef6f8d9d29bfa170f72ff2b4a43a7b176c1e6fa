@@ -1,0 +1,39 @@
+
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(×†Ï‰üÿÿÿÿ
+h
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ñ‹àŠ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÉïŠşÿÿÿÿ
+M	java:S106<"9Replace this use of System.out or System.err by a logger.(Ñ¨¢6
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(œƒîêüÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(»È˜ úÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(éµœØûÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(ƒ¦»Ì
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(ÿ‘½¨
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(ÿ‘½¨
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(µÿ«èıÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(»È˜ úÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(›ÜÔ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ƒ¦»Ì
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(ÿ‘½¨
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(ÿ‘½¨
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(Ôİı
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(ÔŸÆ‡
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(ŸÚ¢¥
+q
+java:S1192c"[Define a constant instead of duplicating this literal "Please enter a valid input" 4 times.(ÿ‘½¨
+s	java:S1358"YReduce the total number of break and continue statements in this loop to use at most one.(·Ä©øÿÿÿÿ
+l	java:S127I"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+l	java:S127]"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+l	java:S127d"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+l	java:S127j"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+l	java:S127y"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127”"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127š"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+P
+java:S1141P"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Q
+java:S1141€"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
